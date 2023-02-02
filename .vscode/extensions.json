@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "angular.ng-template",
+    "dbaeumer.vscode-eslint",
+    "stringham.move-ts",
+    "pmneo.tsimporter",
+    "lucono.karma-test-explorer"
+  ]
+}
