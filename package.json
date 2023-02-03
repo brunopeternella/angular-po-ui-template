@@ -7,7 +7,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test",
+    "test-dev": "ng test",
+    "test-ci": "ng test --watch=false --browsers ChromeHeadless",
     "clear": "rm -rf node_modules/"
   },
   "dependencies": {
